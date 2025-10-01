@@ -1,0 +1,18 @@
+---
+title: "Development and implementation of a scalable and versatile test for COVID-19 diagnostics in rural communities"
+collection: publications
+category: manuscripts
+permalink: /publication/2021-07-20_covid_rural
+excerpt: "Developement of a highly sensitive and adaptable RT-qPCR-based SARS-CoV-2 test to rapidly supplement COVID-19 testing needs, especially in rural and underserved communities, by 3D printing critical supplies and creating a cold-chain-independent transport media."
+date: 2021-07-20
+venue: 'Nature Communications, volume 12, 4400'
+authors: 'Alessandro Ceci, Carmen Munoz-Ballester, Allison Tegge, Katherine L Brown, Robyn Anne Umans, F Marc Michel, Dipankumar Patel, Bhanu Tewari, Joelle Martin, Oscar Alcoreza, Thomas Maynard, Daniel Martinez-Martinez, Paige Bordwine, N Bissell, Michael Friedlander, Harald Sontheimer, Carla V Finkielstein'
+doi: https://doi.org/10.1038/s41467-021-24552-4
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://dmartimarti.github.io/files/papers/s41467-021-24552-4.pdf'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
+Alessandro Ceci, Carmen Munoz-Ballester, Allison Tegge, Katherine L Brown, Robyn Anne Umans, F Marc Michel, Dipankumar Patel, Bhanu Tewari, Joelle Martin, Oscar Alcoreza, Thomas Maynard, **Daniel Martinez-Martinez**, Paige Bordwine, N Bissell, Michael Friedlander, Harald Sontheimer, Carla V Finkielstein. Development and implementation of a scalable and versatile test for COVID-19 diagnostics in rural communities. *Nature Communications*, volume 12, 4400 (2021). doi: [10.1038/s41467-021-24552-4](https://doi.org/10.1038/s41467-021-24552-4)
+
+Rapid and widespread testing of severe acute respiratory coronavirus 2 (SARS-CoV-2) is essential for an effective public health response aimed at containing and mitigating the coronavirus disease 2019 (COVID-19) pandemic. Successful health policy implementation relies on early identification of infected individuals and extensive contact tracing. However, rural communities, where resources for testing are sparse or simply absent, face distinctive challenges to achieving this success. Accordingly, we report the development of an academic, public land grant University laboratory-based detection assay for the identification of SARS-CoV-2 in samples from various clinical specimens that can be readily deployed in areas where access to testing is limited. The test, which is a quantitative reverse transcription polymerase chain reaction (RT-qPCR)-based procedure, was validated on samples provided by the state laboratory and submitted for FDA Emergency Use Authorization. Our test exhibits comparable sensitivity and exceeds specificity and inclusivity values compared to other molecular assays. Additionally, this test can be re-configured to meet supply chain shortages, modified for scale up demands, and is amenable to several clinical specimens. Test development also involved 3D engineering critical supplies and formulating a stable collection media that allowed samples to be transported for hours over a dispersed rural region without the need for a cold-chain. These two elements that were critical when shortages impacted testing and when personnel needed to reach areas that were geographically isolated from the testing center. Overall, using a robust, easy-to-adapt methodology, we show that an academic laboratory can supplement COVID-19 testing needs and help local health departments assess and manage outbreaks. This additional testing capacity is particularly germane for smaller cities and rural regions that would otherwise be unable to meet the testing demand.
