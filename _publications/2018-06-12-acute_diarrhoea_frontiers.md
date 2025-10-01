@@ -1,0 +1,19 @@
+---
+title: "Time series analysis of the microbiota of children suffering from acute infectious diarrhea and their recovery after treatment"
+collection: publications
+category: manuscripts
+permalink: /publication/2018-06-12-acute_diarrhoea_frontiers
+excerpt: "After children with rotavirus-induced diarrhea were treated with the probiotic Saccharomyces boulardii CNCM I-745, their gut microbiota diversity initially decreased but then recovered over 30 days, mirroring their clinical improvement, which was evident by the cessation of diarrhea by day 3, and demonstrating a shift from a highly variable, diseased state to a stable, healthy one."
+date: 2018-06-12
+venue: 'Frontiers in Microbiology, volume 9, 1230'
+authors: 'Ener Cagri Dinleyici, Daniel Martínez-Martínez, Ates Kara, Adem Karbuz, Nazan Dalgic, Ozge Metin, Ahmet Sami, Sirin Guven, Zafer Kurugol, Ozden Turel, Mehmet Kucukkoc, Olcay Yasa, Makbule Eren, Metehan Ozen, Jose Manuel Marti, Carlos P Garay, Yvan Vandenplas, Andres Moya'
+doi: https://doi.org/10.3389/fmicb.2018.01230
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://dmartimarti.github.io/files/papers/fmicb-09-01230.pdf'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
+Ener Cagri Dinleyici\*, **Daniel Martínez-Martínez**\*, Ates Kara, Adem Karbuz, Nazan Dalgic, Ozge Metin, Ahmet Sami, Sirin Guven, Zafer Kurugol, Ozden Turel, Mehmet Kucukkoc, Olcay Yasa, Makbule Eren, Metehan Ozen, Jose Manuel Marti, Carlos P Garay, Yvan Vandenplas, Andres Moya. (2018). "Time series analysis of the microbiota of children suffering from acute infectious diarrhea and their recovery after treatment." *Frontiers in Microbiology*. 9:1230. doi: [10.3389/fmicb.2018.01230](https://doi.org/10.3389/fmicb.2018.01230). \*These authors contributed equally to this work.
+
+Gut microbiota is closely related to acute infectious diarrhea, one of the leading causes of mortality and morbidity in children worldwide. Understanding the dynamics of the recovery from this disease is of clinical interest. This work aims to correlate the dynamics of gut microbiota with the evolution of children who were suffering from acute infectious diarrhea caused by a rotavirus, and their recovery after the administration of a probiotic, Saccharomyces boulardii CNCM I-745. The experiment involved 10 children with acute infectious diarrhea caused by a rotavirus, and six healthy children, all aged between 3 and 4 years. The children who suffered the rotavirus infection received S. boulardii CNCM I-745 twice daily for the first 5 days of the experiment. Fecal samples were collected from each participant at 0, 3, 5, 10, and 30 days after probiotic administration. Microbial composition was characterized by 16S rRNA gene sequencing. Alpha and beta diversity were calculated, along with dynamical analysis based on Taylor's law to assess the temporal stability of the microbiota. All children infected with the rotavirus stopped having diarrhea at day 3 after the intervention. We observed low alpha diversities in the first 5 days (p-value < 0.05, Wilcoxon test), larger at 10 and 30 days after probiotic treatment. Canonical correspondence analysis (CCA) showed differences in the gut microbiota of healthy children and of those who suffered from acute diarrhea in the first days (p-value < 0.05, ADONIS test), but not in the last days of the experiment. Temporal variability was larger in children infected with the rotavirus than in healthy ones. In particular, Gammaproteobacteria class was found to be abundant in children with acute diarrhea. We identified the microbiota transition from a diseased state to a healthy one with time, whose characterization may lead to relevant clinical data. This work highlights the importance of using time series for the study of dysbiosis related to diarrhea.
+
