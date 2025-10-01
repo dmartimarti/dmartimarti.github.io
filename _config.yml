@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Daniel Martínez Martínez / Personal website"
 title_separator          : "-"
 name                     : &name "Daniel Martínez"
@@ -24,7 +24,7 @@ repository               : "dmartimarti/dmartimarti.github.io"
 author:
   # Biographic information
   avatar           : "DSC08188.png"
-  name             : "Daniel MM"
+  name             : "Daniel Martínez Martínez"
   pronouns         : "he/him" 
   bio              : "Scientist"
   location         : "London"
