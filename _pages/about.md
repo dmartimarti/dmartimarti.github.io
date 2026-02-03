@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a systems biologist with experience in computational biology, bioinformatics, microbiology, ecology and evolution. I am currently a Postdoctoral Research Associate at the MRC Laboratory of Medical Sciences (LMS) & Imperial College London, UK. I work in the group of Prof. [Filipe Cabreiro](https://www.cabreirolab.org/), where I study the role of the microbiome in host health and ageing, using model organisms such as *Caenorhabditis elegans*, *Escherichia coli* and others. I am particularly interested in understanding how microbial population genetics and community dynamics influence these microbial communities, and the host phenotypes they affect.
+I am a systems biologist with experience in computational biology, bioinformatics, microbiology, ecology and evolution. I am a lecturer in Microbiology at the [University of Hertfordshire](https://www.herts.ac.uk/) (UK).Previously I worked as a Postdoctoral Research Associate at the MRC Laboratory of Medical Sciences (LMS) & Imperial College London, UK under the supervision of Prof. [Filipe Cabreiro](https://www.cabreirolab.org/), where I studied the role of the microbiome in host health and ageing, using model organisms such as *Caenorhabditis elegans*, *Escherichia coli* and others. 
+
+I am particularly interested in understanding how microbial population genetics and community dynamics influence microbial communities and what's their impact on host health and disease. My research combines experimental and computational approaches to investigate the complex interactions between microbes and their hosts, with a focus on the gut microbiome.
 
 **News**:
+
+- **2026-02-02**: After more than 7 years in Prof. [Filipe Cabreiro](https://www.cabreirolab.org/)'s lab, I have started a new position as a lecturer in Microbiology at the [University of Hertfordshire](https://www.herts.ac.uk/) (UK). I am excited to start this new chapter in my career, where I will continue to explore the fascinating world of microbiology and its impact on health and disease.
+
+- **2026-01-15**: I have published a pre-print of a research article about how navigating the *E. coli* pangenome functional landscape can help us understand microbial and host phenotypes. Check it out [here](https://doi.org/10.64898/2026.01.15.699719)!
 
 - **2025-09-17**: Our new paper on the discovery of a bacterial metabolite affecting cancer progression and chemotherapy efficacy has been published in *Cell Systems*. Check it out [here](https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00230-3)!
 
@@ -21,7 +27,9 @@ I am a systems biologist with experience in computational biology, bioinformatic
 
 ### Publications
 
-[14] **Martinez-Martinez D**\*†, Aprodu A, Cabreiro F (2025). The *Escherichia coli* pangenome functional landscape maps to microbial and host phenotype. *Manuscript in preparation*.
+(DOI links should be clickable)
+
+[14] **Martinez-Martinez D**\*†, Aprodu A*, Backes C*, Ottens F, Zecic A, Doherty H, Widder J, Andrew I, Game L, Kaneva I, Roumellioti G, Montoya A, Kramer H, Hoppe T, Cabreiro F (2026). A protein language model unveils the E. coli pangenome functional landscape regulating host proteostasis. ***bioRxiv***. DOI: [10.64898/2026.01.15.699719](https://doi.org/10.64898/2026.01.15.699719)
 
 [13] **Martinez-Martinez D**\*, Peres TV*, Gehling K*, Quintaneiro L, Cabrera C, Cherevatenko M, Cutty SJ, Best L, Marinos G, Zimmerman J, Safoor A, Chrysostomou D, Mokochinsky JB, Montoya A, Brodesser S, Zatorska M, Scott T, Andrew I, Kramer H, Begum M, Zhang B, Golding BT, Marchesi JR, Hirabayashi S, Kaleta C, Barr AR, Frezza C, Cochemé HM, Cabreiro F (2025). Chemotherapy Modulation by a Cancer-Associated Microbiota Metabolite. ***Cell Systems*** 16:101397. DOI: [10.1016/j.cels.2025.101397](https://doi.org/10.1016/j.cels.2025.101397)
 
