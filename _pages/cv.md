@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* October 2018 - Present: Postdoctoral Research Associate
+* February 2026 - Present: Research Scientist
+  * Lecturer in Microbiology, University of Hertfordshire, UK
+  * Supervisor: Dr. Esther Garcia-Cela
+
+* October 2018 - January 2026: Postdoctoral Research Associate
   * MRC Laboratory of Medical Sciences (LMS) & Imperial College, London, UK
   * Supervisor: Prof. Filipe Cabreiro
 
@@ -57,6 +61,7 @@ Publications
 Talks
 ======
 * Invited & Selected Talks
+  * Mapping the *E. coli* pangenome functional landscape onto host phenotype. Seminar at King's College London, UK, Nov. 2025.
   * Navigating the *E. coli* pangenome to identify metformin drivers. The Local Pangenome, Alicante, Spain, Oct. 2023.
   * Microbiome in drug response: navigating the genetic landscape of the *E. coli* pangenome. Institute of Integrative Systems Biology (I2SysBio), Valencia, Spain, Apr. 2023.
   * Microbiome in drug response: navigating the genetic landscape of the *E. coli* pangenome. Pharmacogenetics and Stratified Medicine Network, London, UK, Jun. 2022.
@@ -82,7 +87,7 @@ Teaching
 
 Service and leadership
 ======
-* Safety Supervisor for the Cabreiro Lab at MRC Laboratory of Medical Sciences (2018 - Present).
+* Safety Supervisor for the Cabreiro Lab at MRC Laboratory of Medical Sciences (2018 - 2026).
 * Organizing Committee Member for the National Congress of Young Researchers in Biomedicine in Valencia (2015 - 2017).
 
 Languages
