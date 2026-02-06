@@ -26,11 +26,11 @@ author:
   avatar           : "DSC08188.png"
   name             : "Daniel Martínez Martínez"
   pronouns         : "he/him" 
-  bio              : "Scientist"
-  location         : "London"
-  employer         : "Imperial College London"
+  bio              : "Lecturer in Biomedical Sciences"
+  location         : "Hatfield"
+  employer         : "University of Hertfordshire"
   uri              : # URL
-  email            : "d.martinez@lms.mrc.ac.uk" 
+  email            : "d.martinez-martinez@herts.ac.uk" 
 
   # Academic websites
   academia         : # URL
